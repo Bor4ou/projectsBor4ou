@@ -1,0 +1,21 @@
+body {
+ font-family: "Open Sans", sans-serif;
+}
+.navbar-logo {
+  width: 8em;
+  height: auto;
+  
+}
+.header-signup {
+font-size: 1vw;
+  margin-left: auto; 
+  background-color: transparent;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  }
